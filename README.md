@@ -4,6 +4,8 @@ The project creating a movie review web service with react
 ## Learning Notes
 ### Create a react app
 - <code>npx create-react-app minflix</code>
+### Run server
+- <code>npm start</code>
 
 ## Review
 - Component: It's similar to a function in javascript. After it take "props" as input, it returns React element describing how it expresses on the screen.
