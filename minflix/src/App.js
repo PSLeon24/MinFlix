@@ -1,6 +1,11 @@
+import Potato from './Potato';
+
 function App() {
   return (
-    <div>Hello!!!</div>
+    <div>
+      <h1>Hello!!!</h1>
+      <Potato />
+    </div>
   );
 }
 
