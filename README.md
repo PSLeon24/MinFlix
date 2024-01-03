@@ -15,3 +15,9 @@ The project creating a movie review web service with react
   - The first letter of the component's name must start uppercase.
 - JSX: Grammar combining JavaScript and HTML
 - props: It's data to transfer between components. Using this is efficient to reuse components.
+- map()
+  - e.g., ```{FoodILike.map(dish => ( <Food key={dish.id} name={dish.name} picture={dish.image} rating={dish.rating} /> ))}```
+
+
+- prop-types
+  - reference: http://github.com/facebook/prop-types
