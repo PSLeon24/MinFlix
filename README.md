@@ -20,3 +20,7 @@ The project creating a movie review web service with react
 - prop-types
   - reference: http://github.com/facebook/prop-types
 - state
+
+## Learning Work Records
+- React Learning: 01/02/2024/ ~
+  - ![스크린샷 2024-01-03 오후 12 33 18](https://github.com/PSLeon24/MinFlix/assets/59058869/9272f2a5-9b63-4cae-87c9-5cff19e19501)
