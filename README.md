@@ -22,6 +22,17 @@ The project creating a movie review web service with react
 - state: It's object-type data used when handling *dynamic data - state can be used in class-type components (must inherit React.Component)
   - dynamic data: data that is likely to change
   - Not mutate state directly. Only use setState()
+- Class Component's life cycle function
+  - constructor(): a function executed first(executed before the render() function)
+  - componentDidMount(): a function executed when a component is first drawn on the screen(executed after the render() function)
+  - componentDidUpdate(): a function executed when updated (newly rendered)
+  - componentWillUnmount(): a function executed when a component destroyed
+- Especially, The render(), constructor(), and componentDidMount() functions are life cycle functions classified as Mount.
+  - Unmount: componentWillUnmount()
+
+|code|result|
+|:--:|:--:|
+|<img width="290" alt="스크린샷 2024-01-04 오후 4 40 48" src="https://github.com/PSLeon24/MinFlix/assets/59058869/7cf6d3a4-4892-46d3-9c40-bb115f1b50de">|<img width="1149" alt="스크린샷 2024-01-04 오후 4 41 17" src="https://github.com/PSLeon24/MinFlix/assets/59058869/ee77bb98-571e-4365-98b0-2f972f1c6923">|
 
 ## Learning Work Records
 - React Learning: 01/02/2024/ ~
