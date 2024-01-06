@@ -2,6 +2,13 @@
 The project creating a movie review web service with react
 
 ## Final Screen
+|Main|
+|--|
+|<img width="800" alt="스크린샷 2024-01-07 오전 12 56 35" src="https://github.com/PSLeon24/MinFlix/assets/59058869/58da03b0-1563-48a6-ab23-efa73701886f">|
+
+|Loading|Home|Detail|
+|--|--|--|
+|<img width="1440" alt="스크린샷 2024-01-07 오전 12 54 21" src="https://github.com/PSLeon24/MinFlix/assets/59058869/bd6c5338-d1fe-4f4e-9dfa-9d5e6586cf36">|<img width="1440" alt="스크린샷 2024-01-07 오전 12 54 10" src="https://github.com/PSLeon24/MinFlix/assets/59058869/3f4ea213-ac50-488a-bceb-debd4742bad3">|<img width="1440" alt="스크린샷 2024-01-07 오전 12 54 34" src="https://github.com/PSLeon24/MinFlix/assets/59058869/64c198fa-1dc5-4039-ac1b-954109b1fe57">|
 
 ## Learning Notes
 ### Create a react app
@@ -35,7 +42,3 @@ The project creating a movie review web service with react
 |code|result|
 |:--:|:--:|
 |<img width="290" alt="스크린샷 2024-01-04 오후 4 40 48" src="https://github.com/PSLeon24/MinFlix/assets/59058869/7cf6d3a4-4892-46d3-9c40-bb115f1b50de">|<img width="1149" alt="스크린샷 2024-01-04 오후 4 41 17" src="https://github.com/PSLeon24/MinFlix/assets/59058869/ee77bb98-571e-4365-98b0-2f972f1c6923">|
-
-## Learning Work Records
-- React Learning: 01/02/2024/ ~
-  - ![스크린샷 2024-01-03 오후 12 33 18](https://github.com/PSLeon24/MinFlix/assets/59058869/9272f2a5-9b63-4cae-87c9-5cff19e19501)
