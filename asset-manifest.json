@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MinFlix/static/css/main.d87f3bce.css",
-    "main.js": "/MinFlix/static/js/main.7b1cec10.js",
-    "index.html": "/MinFlix/index.html",
-    "main.d87f3bce.css.map": "/MinFlix/static/css/main.d87f3bce.css.map",
-    "main.7b1cec10.js.map": "/MinFlix/static/js/main.7b1cec10.js.map"
+    "main.css": "/minflix/static/css/main.d87f3bce.css",
+    "main.js": "/minflix/static/js/main.7b1cec10.js",
+    "index.html": "/minflix/index.html",
+    "main.d87f3bce.css.map": "/minflix/static/css/main.d87f3bce.css.map",
+    "main.7b1cec10.js.map": "/minflix/static/js/main.7b1cec10.js.map"
   },
   "entrypoints": [
     "static/css/main.d87f3bce.css",
