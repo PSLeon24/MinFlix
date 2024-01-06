@@ -1,0 +1,53 @@
+/* Home.css */
+
+body {
+    background-color: #141414;
+    color: #fff;
+    font-family: 'Netflix Sans', sans-serif; /* Netflix Sans만 사용하도록 수정 */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header__title {
+    font-size: 3em;
+    font-weight: bold;
+    color: #e50914;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 1px solid #888;
+    margin: 20px 0;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.loader__text {
+    font-size: 1.2em;
+    color: #888;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer__text {
+    font-size: 1em;
+    color: #888;
+}
