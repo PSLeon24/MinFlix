@@ -1,0 +1,49 @@
+.detail__container {
+    display: flex;
+    margin: 20px;
+  }
+  
+  .detail__poster {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .detail__info {
+    flex-grow: 1;
+  }
+  
+  .detail__title {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .detail__year {
+    font-size: 1.2em;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .detail__summary {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+  }
+  
+  .detail__genres {
+    margin-top: 10px;
+  }
+  
+  .detail__genres strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .detail__genre {
+    display: inline-block;
+    background-color: #eee;
+    color: #555;
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 5px;
+  }  

@@ -1,4 +1,7 @@
 /* Movie.css */
+* {
+    text-decoration: none;
+}
 
 .movies {
     display: grid;
