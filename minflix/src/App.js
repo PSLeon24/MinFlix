@@ -27,7 +27,7 @@ class App extends React.Component {
     return (
       <section className="container">
         <header className="header">
-        <h1 className="header__title">Minflix</h1>
+        <h1 className="header__title">MinFlix</h1>
         <hr />
       </header>
         {isLoading ? (
@@ -44,10 +44,14 @@ class App extends React.Component {
                 title = {movie.title}
                 summary = {movie.summary}
                 poster = {movie.medium_cover_image}
+                genres = {movie.genres}
               />
             ))}
           </div>
         )}
+        <footer className="footer">
+          <p className="footer__text">Made by Yeong-Min Ko</p>
+        </footer>
       </section>
     );
   }
