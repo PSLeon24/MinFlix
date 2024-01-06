@@ -1,0 +1,12 @@
+body {
+    background-color: chocolate;
+    color: white;
+}
+
+.header__title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0;
+    text-align: center;
+}
+
